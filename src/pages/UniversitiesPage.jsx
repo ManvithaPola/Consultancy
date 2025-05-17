@@ -32,7 +32,7 @@ const universitiesData = [
     id: 3,
     name: "University of Melbourne",
     country: "Australia",
-    image: "https://edysor.in/images/university/banner/University-of-Melbourne.webp",
+    image: "https://static.sliit.lk/wp-content/uploads/2024/10/28052224/University-of-Melbourne.jpg",
     logo: "https://images.unsplash.com/photo-1629904869392-ae2a682d4d01?w=200&auto=format&fit=crop",
     description: "The University of Melbourne is a public research university located in Melbourne, Australia and is the second oldest university in Australia.",
     overview: "Consistently ranked among Australia's top universities and among the world's leading institutions.",
